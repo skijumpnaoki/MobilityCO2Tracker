@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC22psah2ixiUQKrxY8iSFjs1rcZw2XAYQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>111463280820</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.MobilityCO2Tracker</string>
+	<key>PROJECT_ID</key>
+	<string>mobilityco2tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobilityco2tracker.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:111463280820:ios:910af7a21fe3c4dac967e1</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>このアプリはCO2トラッキングのために位置情報を必要とします。</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>このアプリはバックグラウンドでCO2トラッキングのために位置情報を必要とします。</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>このアプリはバックグラウンドでCO2トラッキングのために位置情報を必要とします。</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+</dict>
+</plist>
